@@ -87,6 +87,6 @@ Python, FastAPI, OpenAI API, PyMuPDF, python-docx, lxml, Tesseract OCR, LibreOff
 
 ## Contact
 
-Amir Buzubayev · [LinkedIn](https://www.linkedin.com/in/amir-buzubayev-01050a23b)
+Amir Buzubayev · [LinkedIn](https://www.linkedin.com/in/amir-buzubayev)
 
 Happy to walk through the code and design decisions in an interview.
